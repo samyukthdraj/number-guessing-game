@@ -25,7 +25,7 @@ def guessing_game():
                         print("TOO HIGH! GUESS LOWER\n")
                     else:
                         print("Enter a valid number\n")
-            print("YOU HAVE NO MORE ATTEMPTS, YOU LOSE\n")
+            print(f"YOU HAVE NO MORE ATTEMPTS, YOU LOSE THE COMPUTER CHOSE {number}\n")
             break
     if difficulty=='easy':
          i=10
@@ -44,7 +44,7 @@ def guessing_game():
                         print("TOO HIGH! GUESS LOWER\n")
                     else:
                         print("Enter a valid number\n")
-            print("YOU HAVE NO MORE ATTEMPTS, YOU LOSE\n")
+            print(f"YOU HAVE NO MORE ATTEMPTS, YOU LOSE THE COMPUTER CHOSE {number}\n")
             break
          
 guessing_game()
