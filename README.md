@@ -6,4 +6,5 @@ python day 12
 ## to access the ascii art please use this link
 ## http://patorjk.com/software/taag/#p=display&h=2&v=3&f=Wet%20Letter&t=NUMBER%20GUESSING%20GAME
 
-![image](https://github.com/samyukthdraj/number-guessing-game/assets/75676432/e6684c96-b75a-4de9-a7c2-b39b8ec2f288)
+![image](https://github.com/samyukthdraj/number-guessing-game/assets/75676432/a16f3eac-5cee-4986-b59e-83fd68308b6d)
+
