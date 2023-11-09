@@ -4,7 +4,8 @@ python day 12
 ## in the hard mode we get 5 attempts to guess the number
 ## in the easy mode we get 10 attempts to guess the number
 ## to access the ascii art please use this link
-## http://patorjk.com/software/taag/#p=display&h=2&v=3&f=Wet%20Letter&t=NUMBER%20GUESSING%20GAME
+### http://patorjk.com/software/taag/#p=display&h=2&v=3&f=Wet%20Letter&t=NUMBER%20GUESSING%20GAME
+### FOR STEP BY STEP DEBUGGING LIKE THONNY : pythontutor.com 
 
 ![image](https://github.com/samyukthdraj/number-guessing-game/assets/75676432/a16f3eac-5cee-4986-b59e-83fd68308b6d)
 
